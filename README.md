@@ -1,3 +1,6 @@
+# deployed app:
+https://reactjs-eat-n-split-abk.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
